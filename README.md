@@ -1,5 +1,5 @@
 # <p align='center'> Hi there, I'm Kenji. 👋 </p>
-I currently live in Los Angeles. Originally from Hawai'i. Structural Engineer turned Software Engineer.
+### <p align='center'> I currently live in Los Angeles. Originally from Hawai'i. Structural Engineer turned Software Engineer. </p>
 
 ### Let's Connect
 
