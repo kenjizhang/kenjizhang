@@ -3,7 +3,7 @@
 
 Get In Touch!
 
-[![gmail]([https://similarpng.com/gmail-logo-design-on-transparent-background-png/](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png))](mailto:kenjizhang.1@gmail.com)
+[![]([https://similarpng.com/gmail-logo-design-on-transparent-background-png/](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png))](mailto:kenjizhang.1@gmail.com)
 
 <!--
 **kenjizhang/kenjizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
