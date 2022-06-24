@@ -1,5 +1,5 @@
 # Hi there, I'm Kenji. 👋
-I currently live in Los Angeles. Originally from Hawaii. Structural Engineer turned Software Engineer.
+I currently live in Los Angeles. Originally from Hawai'i. Structural Engineer turned Software Engineer.
 
 ### Get In Touch
 
