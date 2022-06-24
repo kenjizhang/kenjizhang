@@ -1,4 +1,4 @@
-<p align='center'> ## Hi there, I'm Kenji. 👋 </p>
+## <p align='center'> Hi there, I'm Kenji. 👋 </p>
 I currently live in Los Angeles. Originally from Hawai'i. Structural Engineer turned Software Engineer.
 
 ### Let's Connect
