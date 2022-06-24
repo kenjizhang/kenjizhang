@@ -3,8 +3,7 @@
 
 Get In Touch!
 
-![gmailLogo](mailto:kenjizhang.1@gmail.com)
-[gmailLogo]: https://similarpng.com/gmail-logo-design-on-transparent-background-png/
+[![gmail](https://similarpng.com/gmail-logo-design-on-transparent-background-png/)](mailto:kenjizhang.1@gmail.com)
 
 <!--
 **kenjizhang/kenjizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
